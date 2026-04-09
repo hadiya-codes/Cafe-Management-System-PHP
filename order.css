@@ -1,0 +1,79 @@
+
+body {
+  
+    background-image: url(f3.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    background-position: top center  ;
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+  }
+  
+  .container {
+    opacity: 0.8;
+    margin-top: 70px;
+    max-width: 600px;
+    margin-left: 300px;
+    
+    padding: 40px;
+    background-color: #fff;
+    border-radius: 25px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  .group {
+    margin-bottom: 20px;
+  }
+  
+  .group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .group input[type="text"],
+  .group input[type="number"],
+  .group input[type="tel"],
+  .group select {
+    
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .group input[type="submit"] {
+    padding: 12px 22px;
+    margin-top: 20px;
+    margin-bottom: 30px;  
+    margin-right: 50px;
+    font-size: 22px;
+    border: none;
+    outline: none;
+    background-color: black;  
+    color: white;
+    border-radius: 25px;
+    transition: opacity 0.5s;
+  }
+  
+  .group input[type="submit"]:hover {
+    color: black;
+    background-color: #FF7200;
+    
+    
+  }
+  span{
+    
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+ 
+  
+  
+  

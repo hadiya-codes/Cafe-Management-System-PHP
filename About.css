@@ -1,0 +1,44 @@
+
+.container {
+    margin-top: 150px;
+    display: flex;
+    align-items: center;
+    
+    
+  }
+  
+  img {
+    
+    max-width: 100%;
+    margin-left: 0px;
+  }
+  img:hover{
+    transition: all 2s;
+    transform:scale(1.1);
+    
+
+  }
+  
+  .about {
+    
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    border: 1px solid;
+    padding: 82px;
+    background-color: #FF7200;
+    
+  }
+  
+ h2 {
+    color: white ;
+    font-size: 30px;
+    
+  }
+  
+   p {
+    
+    font-size: 20px;
+    color: white;
+  }
+  
+  
